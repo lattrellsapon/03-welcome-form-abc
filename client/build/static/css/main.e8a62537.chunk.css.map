@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,wBAAyB,CACzB,UAAW,CACX,sCAAyC,CACzC,eAAgB,CAChB,iBACF","file":"main.e8a62537.chunk.css","sourcesContent":["body {\n  background-color: #282c34;\n  color: #fff;\n  font-family: Arial, Helvetica, sans-serif;\n  line-height: 1.5;\n  text-align: center;\n}\n"]}
